@@ -1,6 +1,9 @@
 # enhanced_webui
-## Enhanced WebUI Addon
 
+**Hinweis: Enhanced WebUI wird nicht weiterentwickelt und geht schrittweise in OpenCCU über.** 
+- Für das eigenständige Addon sind **keine neuen Funktionen geplant.** Sobald eine Funktion in deiner installierten OpenCCU-Version verfügbar ist, deaktiviere die entsprechende Option hier im Addon. Alle übrigen Funktionen kannst du bis zu ihrer Übernahme weiter nutzen.
+
+## Enhanced WebUI Addon
 
 Enhanced WebUI ergänzt die vertraute OpenCCU-Weboberfläche um Funktionen, die das Bearbeiten, Dokumentieren und Verwalten innerhalb der CCU erleichtern: Programmlogik per Drag and Drop sortieren, Skripte mit Autovervollständigung bearbeiten und einzelne Programmteile mit Infotexten versehen. Dazu kommen verbesserte Listen, eine mobile Ansicht und ein optionales Dark Theme.
 
