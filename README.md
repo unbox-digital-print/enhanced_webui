@@ -173,7 +173,7 @@ Wird die Theme-Funktion deaktiviert oder das Addon deinstalliert, so verwendet d
 
 Vor dem Aktivieren der Funktionen empfiehlt es sich stets ein Backup zu erstellen!
 
-1. Das Installationspaket `enhanced-webui-<Version>.tar.gz` aus den [Releases](https://github.com/unbox-digital-printing/enhanced_webui/releases) herunterladen. 
+1. Das Installationspaket `enhanced-webui-<Version>.tar.gz` aus den [Releases](https://github.com/unbox-digital-print/enhanced_webui/releases) herunterladen. 
 2. Das Paket unter **Einstellungen → Systemsteuerung → Zusatzsoftware** hochladen und installieren.
 2.1. Die WebUI neu laden, am Desktop beispielsweise mit **Strg+F5**.
 3. **Enhanced WebUI** in der Systemsteuerung öffnen oder in der Zusatzsoftwareverwaltung **„Einstellen“** wählen.
@@ -222,7 +222,7 @@ Die Kombination aus nativen WebUI-Funktionen und strukturellen Prüfungen soll d
 
 ## Rückmeldungen
 
-Fehler und Verbesserungsvorschläge können über die [Issues](https://github.com/unbox-digital-printing/enhanced_webui/issues) gemeldet werden. Hilfreich sind Addon-Version, OpenCCU-Version, Browser, betroffene Ansicht und eine kurze Beschreibung der Schritte. Screenshots bitte ohne Sitzungsadressen, Passwörter oder andere private Daten bereitstellen.
+Fehler und Verbesserungsvorschläge können über die [Issues](https://github.com/unbox-digital-print/enhanced_webui/issues) gemeldet werden. Hilfreich sind Addon-Version, OpenCCU-Version, Browser, betroffene Ansicht und eine kurze Beschreibung der Schritte. Screenshots bitte ohne Sitzungsadressen, Passwörter oder andere private Daten bereitstellen.
 
 ## Autor und Hinweise
 
